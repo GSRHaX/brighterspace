@@ -2,7 +2,7 @@
 
 #### Browser-side knowledge indexing layer for Brightspace 🧠
 
-BrighterSpace is a client side RAG system for BrightSpace. It provides a smart dashboard, better visibility of upcoming work, and the ability to search for anything across all your courses instantly. Most of the features listed are for free with no signup required. Paid features improve the user experience by providing access to better AI models, unlimited storage, cross platform sync, and much more.
+BrighterSpace is a browser extension that transforms Brightspace into a searchable AI-powered knowledge base. Instead of manually navigating through assignments, announcements, PDFs, and course pages, BrighterSpace indexes all course content directly in the browser and allows students to search, ask questions, and retrieve information instantly. It acts as a semantic layer on top of Brightspace, turning a traditional LMS into an intelligent, queryable workspace.
 <br/>
 
 ## Core features 😵‍💫
