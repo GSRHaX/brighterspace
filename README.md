@@ -1,27 +1,31 @@
-### BrighterSpace 🤖
+## BrighterSpace 🤖
+
 #### Browser-side knowledge indexing layer for Brightspace 🧠
-BrighterSpace is a browser extension that doesn't just search Brightspace — it improves it. Get a smarter dashboard, better visibility into your upcoming work, and the ability to find anything across all your courses instantly. The Brightspace you wish you had.
-#
-#### 🔍 Search Everything
-BrighterSpace indexes every piece of content in your courses — PDFs, assignments, quizzes, announcements, notifications, and your calendar. No more clicking through module after module. If it lives in your Brightspace, you can find it in seconds.
+
+BrighterSpace is a client side RAG system for BrightSpace. It provides a smart dashboard, better visibility of upcoming work, and the ability to search for anything across all your courses instantly. Most of the features listed are for free with no signup required. Paid features improve the user experience by providing access to better AI models, unlimited storage, cross platform sync, and much more.
+<br/>
+
+## Core features 😵‍💫
+
+
+#### 🔍 Search Eveyrthing
+> BrighterSpace analyzes every single piece of content across all of your courses, be it PDFs, Presentations, Assignments, Quizzes, Announcements, Notifications, Graded Assignments, Calendar, and More. You no longer need to keep looking across your course content for textbook links, grading scales, etc!
 
 #### 🧠 Understands What You Mean
-Forget exact keywords. BrighterSpace understands the *meaning* behind your search. Ask *"what's due before spring break"*, *"find the recursion chapter"*, or *"did the professor post anything about the midterm"* — and get exactly what you're looking for.
-
-#### ⚡ Instant, Local, and Private
-Everything is indexed directly in your browser — no server, no account, no tracking. Your course data never leaves your device, and results are instant.
-
-#### 📅 Deadline-Aware
-BrighterSpace doesn't just find things — it understands *when* they matter. It automatically surfaces upcoming deadlines and overdue work, so nothing slips through the cracks the night before it's due.
-
-#### 🤖 Ambient AI
-AI that works without being asked. Get automatic reminders, smart suggestions, grade monitoring, and content summarization — all woven into your normal Brightspace experience.
-
-#### 👀 See More Than Brightspace Does
-Brightspace doesn't always surface what's actually coming up. BrighterSpace pulls from every source — assignments, quizzes, calendar events, and notifications — and gives you a complete, accurate picture of what's ahead.
+> BrighterSpace understands the meaning behind your search. You can ask questions like "what's due before spring break", "what chapter is about [ topic ]", "how much is my clac midterm worth?" and get exactly what you are looking for!
 
 #### 📌 Smart Notes, Bookmarks & Links
-Dump notes, save links, or bookmark any activity directly to your dashboard. Everything is context-aware — BrighterSpace actively suggests relevant saved items based on what you're currently looking at.
+> Dump notes, save links, or bookmark activities across your courses, and BrighterSpace will bring it up when it's relavent. Everything is context-aware. BrighterSpace actively suggests relevant saved items based on what you are looking at. BrighterSpace also organizes your brain dumps for you, by understanding what ( notes / links / bookmarks ) reference what!
+
+#### 🤖 Ambient AI
+> AI that works without being asked. Alongside smart semantic search capabilities, BrighterSpace can provide users with automatic reminders, smart suggestions, grade monitering, activity summarization / elaboration. This is all woven into your normal BrightSpace experience.
 
 #### 🎨 Make Brightspace Yours
-Set custom banner backgrounds for your dashboard and course pages. Enable Declutter Mode to strip out widgets and noise — hide anything your professor or Brightspace adds that you don't need.
+> Set custom banner backgrounds for your dashboard and course pages. Enable Declutter Mode to strip out widgets and noise — hide anything your professor or Brightspace adds that you don't need.
+
+<br/>
+
+## Why BrighterSpace? ⁉️
+Brightspace was built for administrators. BrighterSpace is built for students by students. It's free to install with no signup required. Add it to Chrome and never dig through Brightspace again. 🤓
+
+<br/>
